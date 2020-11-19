@@ -1,0 +1,19 @@
+mm/dd/yyyy | hh:mm:ss | x → transcript | title
+
+00/00/2000 | 00:24:00 | bit.ly/3lGAHl3 | Talking to People About Star Wars
+06/12/2007 | 00:04:53 | bit.ly/3fm2e9d | The Grabowskis - Season One
+07/14/2007 | 00:10:23 | bit.ly/3fgbzQ3 | The Grabowskis - Season Two
+09/16/2007 | 00:19:59 | bit.ly/38VgSDe | The Grabowskis - Season Three
+12/13/2007 | 00:22:24 | bit.ly/36Og8Nu | The Grabowskis - Season Four
+04/24/2008 | 00:00:37 | bit.ly/3nBNbes | The Grabowskis - Season Five promo
+05/22/2008 | 00:24:49 | bit.ly/3nCHsFg | The Grabowskis - Season Five
+12/03/2010 | 00:01:24 | bit.ly/38Sl8U7 | When Red Letter Media met Tommy
+08/21/2011 | 00:13:06 | bit.ly/2IQZXHk | The Great Space Jam (extended cut)
+04/09/2012 | 00:00:19 | bit.ly/3kH3CUM | American Dad steals our pathetic fart joke
+08/27/2015 | 00:02:08 | bit.ly/36JECYd | RLM Merch Update
+04/03/2017 | 00:03:56 | bit.ly/35C3Ubs | PRF BBQ MKE 2017
+09/17/2016 | 00:06:14 | bit.ly/3pOzuLg | George Lucas Salad Unboxing Video #1 
+07/23/2020 | 00:20:12 | bit.ly/38TbKiP | Boomer Fight! Shatner VS RLM Explained!
+10/12/2020 | 00:00:00 | bit.ly/3lFvREF | Macaulay Culkin And Red Letter Media Point At Milwaukee: Watch The Video
+
+https://www.redlettermedia.com/shorts-filmsrandom
