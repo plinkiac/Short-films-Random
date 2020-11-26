@@ -1,6 +1,12 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title
 
 00/00/2000 | 00:24:00 | bit.ly/35MGmAG | Talking to People About Star Wars
+00/00/2001 | 00:21:00 | bit.ly/2HBUTpx | Ghostbusted
+00/00/2001 | 00:29:31 | bit.ly/3q3yVNO | Ghostbusted - Outtakes
+00/00/2002 | 00:41:58 | bit.ly/2JaPruD | Ghostbusted 2
+00/00/2003 | 00:44:09 | bit.ly/366fNXb | Ghostbusted 3
+00/00/2003 | 00:01:59 | bit.ly/3m8serp | Ghostbusted 3: Credits
+00/00/2003 | 00:21:29 | bit.ly/2V3LPwT | Ghostbusted 3 - Outtakes
 06/12/2007 | 00:04:53 | bit.ly/2UIY5mk | The Grabowskis - Season One
 07/14/2007 | 00:10:23 | bit.ly/3fdHYXa | The Grabowskis - Season Two
 09/16/2007 | 00:19:59 | bit.ly/2UEJ9pc | The Grabowskis - Season Three
