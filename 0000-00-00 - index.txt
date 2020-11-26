@@ -1,6 +1,7 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title
 
 00/00/2000 | 00:24:00 | bit.ly/35MGmAG | Talking to People About Star Wars
+00/00/2001 | 00:04:20 | bit.ly/2JdNyNR | The Care Boars Save Christmas
 00/00/2001 | 00:21:00 | bit.ly/2HBUTpx | Ghostbusted
 00/00/2001 | 00:29:31 | bit.ly/3q3yVNO | Ghostbusted - Outtakes
 00/00/2002 | 00:41:58 | bit.ly/2JaPruD | Ghostbusted 2
