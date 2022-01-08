@@ -18,6 +18,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 12/03/2010 | 00:01:24 | bit.ly/2KpX6Wf | When Red Letter Media met Tommy
 08/21/2011 | 00:13:06 | bit.ly/2HlkAe2 | The Great Space Jam (extended cut)
 09/27/2011 | 00:00:00 | bit.ly/32ZKcVb | Red Letter Weddings Demo 2011
+12/20/2011 | 00:03:59 | bit.ly/33fFG7Y | Harry's Next Review (Mike, Rich, Sara)
 04/09/2012 | 00:00:19 | bit.ly/3kQAk6d | American Dad steals our pathetic fart joke
 08/23/2013 | 00:02:13 | bit.ly/3obsXIQ | Space Cop Teaser Poster and more!
 08/27/2015 | 00:02:08 | bit.ly/3lLp5gM | RLM Merch Update
