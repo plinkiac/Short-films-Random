@@ -63,7 +63,8 @@ PLINKETT:
 Wait a minute, I sense a presence I've not felt since...
 
 PALPATINE:
-Good, good...I have found the real Lord Plinkett.
+Good, good...
+I have found the real Lord Plinkett.
 You cannot hide from me.
 
 PLINKETT:
