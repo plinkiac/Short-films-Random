@@ -17,9 +17,11 @@ mm/dd/yyyy | hh:mm:ss | title
 05/23/2009 | 00:02:11 | Star Trek (2009) Review
 12/03/2010 | 00:01:24 | When Red Letter Media met Tommy
 08/21/2011 | 00:13:06 | The Great Space Jam (extended cut)
-09/27/2011 | 00:00:00 | Red Letter Weddings Demo 2011
+09/27/2011 | 00:02:40 | Red Letter Weddings Demo 2011
 12/20/2011 | 00:03:59 | Harry's Next Review (Mike, Rich, Sara)
-04/09/2012 | 00:00:19 | American Dad steals our pathetic fart joke 
+04/09/2012 | 00:00:19 | American Dad steals our pathetic fart joke (Mike)
+04/20/2012 | 00:02:39 | Mike and Jay Eat Fried Chicken (Mike, Jay)
+04/20/2012 | 00:10:39 | Chunky's Chicken (Mike)
 08/23/2013 | 00:02:13 | Space Cop Teaser Poster and more! (Mike, Jay)
 08/27/2015 | 00:02:08 | RLM Merch Update (Mike, Jay)
 09/17/2016 | 00:06:14 | George Lucas Salad Unboxing Video #1 (Rich)
