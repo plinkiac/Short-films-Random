@@ -1,34 +1,38 @@
-mm/dd/yyyy | hh:mm:ss | x → transcript | title
+mm/dd/yyyy | hh:mm:ss | title
 
-00/00/2000 | 00:24:00 | bit.ly/35MGmAG | Talking to People About Star Wars
-00/00/2001 | 00:04:20 | bit.ly/2JdNyNR | The Care Boars Save Christmas
-00/00/2001 | 00:21:00 | bit.ly/2HBUTpx | Ghostbusted
-00/00/2001 | 00:29:31 | bit.ly/3q3yVNO | Ghostbusted - Outtakes
-00/00/2002 | 00:41:58 | bit.ly/2JaPruD | Ghostbusted 2
-00/00/2003 | 00:44:09 | bit.ly/366fNXb | Ghostbusted 3
-00/00/2003 | 00:01:59 | bit.ly/3m8serp | Ghostbusted 3: Credits
-00/00/2003 | 00:21:29 | bit.ly/2V3LPwT | Ghostbusted 3 - Outtakes
-06/12/2007 | 00:04:53 | bit.ly/2UIY5mk | The Grabowskis - Season One
-07/14/2007 | 00:10:23 | bit.ly/3fdHYXa | The Grabowskis - Season Two
-09/16/2007 | 00:19:59 | bit.ly/2UEJ9pc | The Grabowskis - Season Three
-12/13/2007 | 00:22:24 | bit.ly/2UHrYTZ | The Grabowskis - Season Four
-04/24/2008 | 00:00:37 | bit.ly/3kNJWPa | The Grabowskis - Season Five promo
-05/22/2008 | 00:24:49 | bit.ly/3kMG2q3 | The Grabowskis - Season Five
-05/23/2009 | 00:02:11 | bit.ly/2Jir51B | Star Trek (2009) Review
-12/03/2010 | 00:01:24 | bit.ly/2KpX6Wf | When Red Letter Media met Tommy
-08/21/2011 | 00:13:06 | bit.ly/2HlkAe2 | The Great Space Jam (extended cut)
-09/27/2011 | 00:00:00 | bit.ly/32ZKcVb | Red Letter Weddings Demo 2011
-12/20/2011 | 00:03:59 | bit.ly/33fFG7Y | Harry's Next Review (Mike, Rich, Sara)
-04/09/2012 | 00:00:19 | bit.ly/3kQAk6d | American Dad steals our pathetic fart joke
-08/23/2013 | 00:02:13 | bit.ly/3obsXIQ | Space Cop Teaser Poster and more!
-08/27/2015 | 00:02:08 | bit.ly/3lLp5gM | RLM Merch Update
-09/17/2016 | 00:06:14 | bit.ly/2IQ7N3y | George Lucas Salad Unboxing Video #1
-04/03/2017 | 00:03:56 | bit.ly/2IWHWqU | PRF BBQ MKE 2017
-11/30/2018 | 00:00:28 | bit.ly/2UK7Yjy | Dick the Birthday Boy
-01/19/2019 | 00:08:08 | bit.ly/2Kg6dsm | Avengers Toy Unboxing with Freddie Williams and Rich Evans
-06/07/2019 | 00:01:29 | bit.ly/3nF6unf | The George Foreskin Grill by Red Letter Media
-12/16/2019 | 00:08:47 | bit.ly/3q4a0cF | How Do They Make A Red Letter Media Show? ft Macaulay Culkin
-08/03/2020 | 00:01:07 | bit.ly/2IWrBlS | Jonathan Frakes message to Mike and Rich
-10/12/2020 | 00:00:00 | bit.ly/3fdIdl2 | Macaulay Culkin And Red Letter Media Point At Milwaukee: Watch The Video
+00/00/2000 | 00:24:00 | Talking to People About Star Wars
+00/00/2001 | 00:04:20 | The Care Boars Save Christmas
+00/00/2001 | 00:21:00 | Ghostbusted
+00/00/2001 | 00:29:31 | Ghostbusted - Outtakes
+00/00/2002 | 00:41:58 | Ghostbusted 2
+00/00/2003 | 00:44:09 | Ghostbusted 3
+00/00/2003 | 00:01:59 | Ghostbusted 3: Credits
+00/00/2003 | 00:21:29 | Ghostbusted 3 - Outtakes
+06/12/2007 | 00:04:53 | The Grabowskis - Season One
+07/14/2007 | 00:10:23 | The Grabowskis - Season Two
+09/16/2007 | 00:19:59 | The Grabowskis - Season Three
+12/13/2007 | 00:22:24 | The Grabowskis - Season Four
+04/24/2008 | 00:00:37 | The Grabowskis - Season Five promo
+05/22/2008 | 00:24:49 | The Grabowskis - Season Five
+05/23/2009 | 00:02:11 | Star Trek (2009) Review
+12/03/2010 | 00:01:24 | When Red Letter Media met Tommy
+08/21/2011 | 00:13:06 | The Great Space Jam (extended cut)
+09/27/2011 | 00:00:00 | Red Letter Weddings Demo 2011
+12/20/2011 | 00:03:59 | Harry's Next Review (Mike, Rich, Sara)
+04/09/2012 | 00:00:19 | American Dad steals our pathetic fart joke 
+08/23/2013 | 00:02:13 | Space Cop Teaser Poster and more! (Mike, Jay)
+08/27/2015 | 00:02:08 | RLM Merch Update (Mike, Jay)
+09/17/2016 | 00:06:14 | George Lucas Salad Unboxing Video #1 (Rich)
+04/03/2017 | 00:03:56 | PRF BBQ MKE 2017 (Mike, Jay)
+11/30/2018 | 00:00:28 | Dick the Birthday Boy (Rich)
+01/19/2019 | 00:08:08 | Avengers Toy Unboxing with Freddie Williams and Rich Evans (Rich, Freddie)
+06/07/2019 | 00:01:29 | The George Foreskin Grill by Red Letter Media (Mike, Rich)
+12/16/2019 | 00:08:47 | How Do They Make A Red Letter Media Show? ft Macaulay Culkin (Mike, Jay, Rich, Macaulay Culkin)
+08/03/2020 | 00:01:07 | Jonathan Frakes message to Mike and Rich (Jonathan Frakes)
+10/12/2020 | 00:00:00 | Macaulay Culkin And Red Letter Media Point At Milwaukee: Watch The Video (Mike, Jay, Macaulay Culkin)
+05/11/2021 | 00:24:53 | Star Trek Trivia Showdown: Mike vs Jay (Episode 1 of 2,873) (Mike, Jay, Rich)
+08/22/2021 | 00:26:27 | Mike vs. Jay: Trivia Showdown REMATCH (Mike, Jay, Rich, Josh)
+08/13/2022 | 00:26:22 | Rich and Mike play Super VHS: The RLM Video Game! (Mike, Jay, Rich)
+09/14/2022 | 00:17:38 | Dick the Birthday Boy: The Legacy Continues (Mike Rich)
 
 https://www.redlettermedia.com/shorts-filmsrandom
